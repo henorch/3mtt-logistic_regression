@@ -81,6 +81,3 @@ A one-unit increase in Ease of Online Booking increases the log-odds of customer
 These variables have the strongest positive influence on predicting customer satisfaction.
 
 
-# final Interpretation
-
-The Logistic Regression model achieved an F1-score of 0.82, indicating strong and balanced predictive performance. Feature importance analysis shows that Inflight Entertainment, Ease of Online Booking, On-board Service, and Seat Comfort are the strongest positive drivers of customer satisfaction. Conversely, Customer Type has a strong negative influence, indicating significant variation in satisfaction levels across customer categories. Overall, the model highlights that service quality-related features are the primary determinants of airline customer satisfaction.
